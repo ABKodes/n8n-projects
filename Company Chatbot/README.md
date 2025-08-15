@@ -1,6 +1,8 @@
 # 🇪🇹 Ethiopian Enterprise AI Chatbot
 > **Bridging the gap between Ethiopian Businesses and Customers with AI Excellence.**
 
+![Project Preview](./image.png)
+
 ![Architecture](https://img.shields.io/badge/Architecture-n8n-red)
 ![AI Model](https://img.shields.io/badge/Brain-Google%20Gemini%201.5%20Pro-blue)
 ![Localization](https://img.shields.io/badge/Locale-Ethiopia%20(Amharic/English)-green)

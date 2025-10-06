@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  n8n-telegram-rag:
+    image: n8nio/n8n:latest
+    container_name: telegram-pdf-rag-n8n
+    restart: always
+    ports:
+      - "5679:5678"  # Mapping to 5679 to avoid conflict with the other chatbot if running both
+    environment:
+      - N8N_PORT=5678
+      - N8N_PROTOCOL=http
+      - NODE_ENV=production
+    volumes:
+      - n8n_telegram_data:/home/node/.n8n
+      - ./telegramChatWithPDF.json:/home/node/workflow.json
+
+volumes:
+  n8n_telegram_data:
+    external: false

@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  n8n-sentiment:
+    image: n8nio/n8n:latest
+    container_name: sentiment-analysis-bot-n8n
+    restart: always
+    ports:
+      - "5680:5678"  # Using port 5680 to avoid overlap with other bots
+    environment:
+      - N8N_PORT=5678
+      - N8N_PROTOCOL=http
+      - NODE_ENV=production
+    volumes:
+      - n8n_sentiment_data:/home/node/.n8n
+      - ./sentimentAnalysisBot.json:/home/node/workflow.json
+
+volumes:
+  n8n_sentiment_data:
+    external: false

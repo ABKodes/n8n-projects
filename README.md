@@ -1,6 +1,8 @@
 # 🚀 Personal n8n AI Projects
 > **A collection of custom AI-driven automation workflows I built to solve complex business and productivity challenges.**
 
+![Portfolio Hero Preview](./image.png)
+
 ![Total Projects](https://img.shields.io/badge/Projects-3-blue)
 ![Platform](https://img.shields.io/badge/Platform-n8n-red)
 ![AI-Powered](https://img.shields.io/badge/Brain-Google%20Gemini%201.5%20Pro-blue)

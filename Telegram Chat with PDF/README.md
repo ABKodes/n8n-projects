@@ -1,6 +1,8 @@
 # 🤖 Telegram PDF Intellectual Assistant (RAG)
 > **Turn your Telegram into a smart knowledge base with PDF-powered AI.**
 
+![Project Preview](./image.png)
+
 ![n8n](https://img.shields.io/badge/Orchestration-n8n-red)
 ![Gemini](https://img.shields.io/badge/AI-Google%20Gemini%201.5%20Pro-blue)
 ![VectorDB](https://img.shields.io/badge/Search-Pinecone%20(RAG)-green)

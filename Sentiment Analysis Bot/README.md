@@ -1,6 +1,8 @@
 # 📊 AI Sentiment Analysis Intelligence
 > **Real-time customer feedback classification powered by Google Gemini 1.5 Pro.**
 
+![Project Preview](./image.png)
+
 ![n8n](https://img.shields.io/badge/Logic-n8n-red)
 ![Gemini](https://img.shields.io/badge/Sentiment-Google%20Gemini%201.5%20Pro-blue)
 ![Sheets](https://img.shields.io/badge/Database-Google%20Sheets-green)

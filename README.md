@@ -1,7 +1,7 @@
 # 🚀 Personal n8n AI Projects
 > **A collection of custom AI-driven automation workflows I built to solve complex business and productivity challenges.**
 
-![Total Projects](https://img.shields.io/badge/Projects-3-blue)
+![Total Projects](https://img.shields.io/badge/Projects-4-blue)
 ![Platform](https://img.shields.io/badge/Platform-n8n-red)
 ![AI-Powered](https://img.shields.io/badge/Brain-Google%20Gemini%201.5%20Pro-blue)
 
@@ -25,6 +25,11 @@ My objective here was to master **RAG (Retrieval-Augmented Generation)**. I buil
 **Location:** [`/Sentiment Analysis Bot`](./Sentiment%20Analysis%20Bot/)  
 I designed this bot to solve the problem of scaling customer feedback analysis. It classifies Telegram reviews as Positive, Neutral, or Negative.
 - **Technical Achievement**: Used structured output parsing to force the AI into returning strict JSON, ensuring the data logs perfectly into analysis spreadsheets.
+
+### 4. 🗓 AI Appointment Booking Assistant
+**Location:** [`/Appointment Booking Bot`](./Appointment%20Booking%20Bot/) *(In Development)*  
+A conversational appointment scheduler for service-based businesses. Users interact via Telegram to book, reschedule, or cancel appointments without any human involvement.
+- **Technical Achievement**: Integrates Google Calendar API for real-time availability checks and sends automated confirmation emails via Gmail.
 
 ---
 

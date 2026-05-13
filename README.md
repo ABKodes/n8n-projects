@@ -55,7 +55,22 @@ I have dockerized every project to make deployment seamless. Each bot runs on it
 
 ---
 
+## 🗺 Roadmap
+
+| Status | Project |
+| :--- | :--- |
+| ✅ Done | Ethiopian Enterprise AI Chatbot |
+| ✅ Done | Telegram PDF RAG Assistant |
+| ✅ Done | AI Sentiment Analysis Bot |
+| 🚧 In Progress | AI Appointment Booking Assistant |
+| 🔜 Planned | Multi-language Voice Transcription Bot |
+| 🔜 Planned | WhatsApp Business AI Agent |
+
+---
+
 ## 👨‍💻 About the Developer
 I am passionate about building AI that actually works for people. Whether it's localized hospitality bots or deep document search, I focus on building stable, professional, and useful software.
+
+> **Open to freelance and collaboration opportunities.** If you have an automation challenge, feel free to reach out.
 
 *Built with ❤️ by ABKodes*
